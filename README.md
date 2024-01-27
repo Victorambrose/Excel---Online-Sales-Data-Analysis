@@ -46,15 +46,15 @@ Utilized Pivot tables to generate insightful Pivot Charts for the following anal
  
 4.Top Sales Performing States: Identifying the top five states based on sales performance. 
 
-<img src=>
+<img src="Images/Top 5 States.png">
  
 5.Demographic Order Distribution: Analysing the distribution of order counts based on age group and gender. 
 
- <img src=>
+ <img src="Images/Orders by Age group.png">
  
 6.Website-specific Order Distribution: Investigating the distribution of order counts across different websites.
 
-<img src=>
+<img src="Images/Orders by website.png">
 
 Interactive Dashboard Enhancement: 
 •	To enhance interactivity in the Excel dashboard, Slicers have been incorporated and strategically linked to all associated Pivot Charts. 
@@ -62,11 +62,11 @@ Interactive Dashboard Enhancement:
 •	 This augmentation facilitates dynamic data exploration, allowing users to seamlessly filter and navigate through the dashboard content based on specific criteria. Such interactivity empowers data analysts to gain deeper insights, conduct targeted analyses, and swiftly adapt visualizations to evolving research questions.
 •	 By incorporating Slicers, the dashboard becomes a more user-centric and flexible tool for effective data interpretation and decision-making.
 
-     <img src=> <img src=> <img src=>
+ <img src="Images/Slicer-Age Group.png"> <img src="Images/Slicer-Category.png"> <img src="Images/Slicer-Website.png">
      
 Overall Dashboard:
  
-<img src=>
+<img src="Images/Dashboard.png">
 
 Key Insights: 
 1.	Predominant Sales Demographic: Adult women emerge as the primary contributors to sales, indicating a notable preference for the products among this demographic. 

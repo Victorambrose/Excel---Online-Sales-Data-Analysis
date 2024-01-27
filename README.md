@@ -34,37 +34,39 @@ Pivot Charts Analysis:
 Utilized Pivot tables to generate insightful Pivot Charts for the following analytical inquiries: 
 1.Assessing the Monthly Performance: Examining aggregate monthly orders and sales figures.
 
- ![](Images/Orders by Month.png))
+<img src="Images/Orders by Month.png">
  
 2.Gender-based Sales Analysis: Evaluating sales metrics based on gender demographics. 
 
- ![](/images/img.jpg "Optional title"))
+<img src="Images/image.png">
  
 3.Orders Status Distribution: Investigating the distribution pattern of orders across different status categories. 
 
- ![](/images/img.jpg "Optional title"))
+<img src="Images/Order Status.png">
  
 4.Top Sales Performing States: Identifying the top five states based on sales performance. 
 
- ![](/images/img.jpg "Optional title"))
+<img src=>
  
 5.Demographic Order Distribution: Analysing the distribution of order counts based on age group and gender. 
 
- ![](/images/img.jpg "Optional title"))
+ <img src=>
  
 6.Website-specific Order Distribution: Investigating the distribution of order counts across different websites.
 
- ![](/images/img.jpg "Optional title"))
+<img src=>
 
 Interactive Dashboard Enhancement: 
 •	To enhance interactivity in the Excel dashboard, Slicers have been incorporated and strategically linked to all associated Pivot Charts. 
 •	The Slicers encompass website, apparel category, and age group dimensions.
 •	 This augmentation facilitates dynamic data exploration, allowing users to seamlessly filter and navigate through the dashboard content based on specific criteria. Such interactivity empowers data analysts to gain deeper insights, conduct targeted analyses, and swiftly adapt visualizations to evolving research questions.
 •	 By incorporating Slicers, the dashboard becomes a more user-centric and flexible tool for effective data interpretation and decision-making.
-     
 
+     <img src=> <img src=> <img src=>
+     
 Overall Dashboard:
  
+<img src=>
 
 Key Insights: 
 1.	Predominant Sales Demographic: Adult women emerge as the primary contributors to sales, indicating a notable preference for the products among this demographic. 

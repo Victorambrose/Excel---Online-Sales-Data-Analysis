@@ -30,28 +30,31 @@ Month:
 •	We use the formula “=TEXT(G2,"mmm")” to get the first three letters of the month value of the respective date.
 Data Analysis:
 
-Pivot Charts: 
-Created Pivot tables and appropriate Pivot Charts for the following analysis.
-1.	What are the Overall orders and sales per month?
-2.	How much is the sales with respect to gender?
-3.	Distribution of Orders Status
-4.	What are the top five states with respect to sales?
-5.	Distribution of order counts with respect to age group and gender. 
-6.	Distribution of order count by website.  
 Pivot Charts Analysis: 
 Utilized Pivot tables to generate insightful Pivot Charts for the following analytical inquiries: 
 1.Assessing the Monthly Performance: Examining aggregate monthly orders and sales figures.
+
+ ![](Images/Orders by Month.png))
  
 2.Gender-based Sales Analysis: Evaluating sales metrics based on gender demographics. 
+
+ ![](/images/img.jpg "Optional title"))
  
 3.Orders Status Distribution: Investigating the distribution pattern of orders across different status categories. 
+
+ ![](/images/img.jpg "Optional title"))
  
 4.Top Sales Performing States: Identifying the top five states based on sales performance. 
+
+ ![](/images/img.jpg "Optional title"))
  
 5.Demographic Order Distribution: Analysing the distribution of order counts based on age group and gender. 
+
+ ![](/images/img.jpg "Optional title"))
  
 6.Website-specific Order Distribution: Investigating the distribution of order counts across different websites.
- 
+
+ ![](/images/img.jpg "Optional title"))
 
 Interactive Dashboard Enhancement: 
 •	To enhance interactivity in the Excel dashboard, Slicers have been incorporated and strategically linked to all associated Pivot Charts. 
